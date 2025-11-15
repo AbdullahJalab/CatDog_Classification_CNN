@@ -11,8 +11,11 @@ This project demonstrates how to classify images of cats and dogs using a Convol
 - Compatible with GPU (CUDA) for faster training.
 
 ## Dataset
-The dataset should be structured as a ZIP file containing two folders:
-
+The dataset should be structured as a ZIP file containing two folders:CatDog/
+├── Cat/
+└── Dog/
+if  you want datasset send me an email.
+هب 
 
 
 ## Usage
